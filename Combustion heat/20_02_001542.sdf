@@ -1,0 +1,137 @@
+119095350
+  -OEChem-10312420232D
+
+ 17 15  0     0  0  0  0  0  0999 V2000
+    3.1350    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.0010    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4335    5.0369    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9705    5.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8966    4.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1235    5.5739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7435    4.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  CHG  2   3  -1   7   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+119095350
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+158
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBDOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgAQAAAAAAABgAABCALAAAAIAAGQGAIAAAAAAAAAAADAAACCAAAAACAAAAAABSIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ammonium;2-oxo-2-ureido-acetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+ammonium;2-(carbamoylamino)-2-oxoacetate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+azanium;2-(carbamoylamino)-2-oxoacetate
+
+> <PUBCHEM_IUPAC_NAME>
+azanium;2-(carbamoylamino)-2-oxoacetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+azanium;2-(aminocarbonylamino)-2-oxidanylidene-ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ammonium;2-keto-2-ureido-acetate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H4N2O4.H3N/c4-3(9)5-1(6)2(7)8;/h(H,7,8)(H3,4,5,6,9);1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MONIFNDGTRBQPX-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+149.04365571
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H7N3O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+149.11
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(=O)(C(=O)[O-])NC(=O)N.[NH4+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(=O)(C(=O)[O-])NC(=O)N.[NH4+]
+
+> <PUBCHEM_CACTVS_TPSA>
+113
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+149.04365571
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

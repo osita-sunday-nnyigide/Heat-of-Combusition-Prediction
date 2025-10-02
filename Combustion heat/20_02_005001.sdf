@@ -1,0 +1,139 @@
+498777
+  -OEChem-10312421032D
+
+ 22 10  0     0  0  0  0  0  0999 V2000
+    1.9890    1.8271    0.0000 Re  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9890    7.6105    0.0000 Re  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.0362    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    1.5732    9.5668    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000    7.8195    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7211    8.6105    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    1.5732    3.7834    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7211    2.8271    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4753    0.4888    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1756    5.7834    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4753    6.2722    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1756    0.0000    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9945    1.9316    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    1.7811    8.5886    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    0.9945    7.7150    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8551    8.1105    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    1.7811    2.8052    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8551    2.3271    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7322    1.1580    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    1.5823    6.6969    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7322    6.9414    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    1.5823    0.9135    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+  3 13  3  0  0  0  0
+  4 14  3  0  0  0  0
+  5 15  3  0  0  0  0
+  6 16  3  0  0  0  0
+  7 17  3  0  0  0  0
+  8 18  3  0  0  0  0
+  9 19  3  0  0  0  0
+ 10 20  3  0  0  0  0
+ 11 21  3  0  0  0  0
+ 12 22  3  0  0  0  0
+M  CHG  8   3   1   4   1   5   1   6   1   7   1   8   1   9   1  10   1
+M  CHG  8  11   1  12   1  13  -1  14  -1  15  -1  16  -1  17  -1  18  -1
+M  CHG  4  19  -1  20  -1  21  -1  22  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+498777
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+10
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwPAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_NAME>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+carbon monoxide;rhenium
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/10CO.2Re/c10*1-2;;
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZIZHEHXAMPQGEK-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+651.85786
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10O10Re2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+652.51
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Re].[Re]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Re].[Re]
+
+> <PUBCHEM_CACTVS_TPSA>
+10
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+653.86065
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+12
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
