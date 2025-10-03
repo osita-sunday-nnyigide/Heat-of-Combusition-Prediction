@@ -1,6 +1,6 @@
-To run python implementation of the models:
+To run the python implementation of the models:
 
 1. Ensure that all the imported libraries are installed
 2. Change the label_path = r"C:\Users\OS\Desktop\Combustion heat\heat_of_combution.csv" and
-sdf_dir = r"C:\Users\OS\Desktop\Combustion heat" according
+sdf_dir = r"C:\Users\OS\Desktop\Combustion heat" accordingly
 3. Then, run the python code
