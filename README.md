@@ -2,7 +2,7 @@ This repo contains 4,516 SDF files, one csv file containing heat of combustion a
 
 4 python scripts used to implement NNConv, CGN, XGBoost and MLP models
 
-## PROGRAM usage
+## Program usage
 
 To run the python implementation of the models:
 
